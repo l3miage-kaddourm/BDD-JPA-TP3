@@ -1,5 +1,7 @@
 package fr.uga.l3miage.tp3.exo1.models;
 
+import lombok.*;
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
